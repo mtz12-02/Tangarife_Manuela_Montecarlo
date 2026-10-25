@@ -1,6 +1,6 @@
 # Simulación del juego Yahtzee con Monte Carlo
 
-# Manuela Tangarife Zapata
+## Manuela Tangarife Zapata
 
 ## Descripción
 
