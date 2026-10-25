@@ -4,9 +4,9 @@
 
 ## Descripción
 
-Este proyecto consiste en la simulación del juego de dados Yahtzee utilizando Python y el método Monte Carlo. Se desarrolló de manera individual 
+Este proyecto consiste en la simulación del juego de dados Yahtzee utilizando Python y el método Monte Carlo. Se desarrolló de manera individual. 
 
-El proyecto incluye una versión del juego para dos jugadores y varios experimentos para estudiar la probabilidad de obtener Yahtzee, comparar estrategias de lanzamiento y analizar el efecto de utilizar dados justos y dados cargados.
+La solución incluye una versión del juego para dos jugadores y varios experimentos para estudiar la probabilidad de obtener Yahtzee, comparar estrategias de lanzamiento y analizar el efecto de utilizar dados justos y dados cargados.
 
 ## Objetivos
 
